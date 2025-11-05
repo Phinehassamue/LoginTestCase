@@ -6,7 +6,7 @@
 trigger:
 - main
 
-pool: newone
+pool: latest
 
 steps:
 - task: Maven@4
